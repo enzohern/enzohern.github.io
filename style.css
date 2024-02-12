@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #333; /* Color de texto oscuro */
+    font-family: Arial, sans-serif; /* Fuente de texto */
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, sans-serif; /* Fuente de texto */
+    color: #666; /* Color de texto más claro */
+}
+
+body {
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+}
